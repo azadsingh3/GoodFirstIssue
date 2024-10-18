@@ -30,7 +30,7 @@ export class IssueRow extends React.Component {
   }
 }
 
-// added this line to export the IssueLabel function
+// added this line to export the IssueLabel function.
 export function IssueLabel(bgc, txt) {
   const backgroundColor = `#${bgc}`;
   const style = {
